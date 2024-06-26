@@ -7,5 +7,6 @@ edition = "2021"
 
 [workspace]
 members = [
-    "FirstThread"
+    "FirstThread",
+    "DivideWork"
 ]
