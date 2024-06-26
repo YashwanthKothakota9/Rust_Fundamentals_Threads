@@ -12,5 +12,6 @@ members = [
     "thread_builder",
     "scoped_threads",
     "atomic_counter",
-    "atomic_counter_timed"
+    "atomic_counter_timed",
+    "mutexes"
 ]

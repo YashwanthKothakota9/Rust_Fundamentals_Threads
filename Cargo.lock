@@ -23,6 +23,10 @@ name = "atomic_counter_timed"
 version = "0.1.0"
 
 [[package]]
+name = "mutexes"
+version = "0.1.0"
+
+[[package]]
 name = "scoped_threads"
 version = "0.1.0"
 
