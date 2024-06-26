@@ -1,0 +1,8 @@
+[package]
+name = "lockfree_map"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dashmap = "6.0.1"
+once_cell = "1.19.0"

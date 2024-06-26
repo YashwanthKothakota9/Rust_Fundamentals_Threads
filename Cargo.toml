@@ -14,5 +14,6 @@ members = [
     "atomic_counter",
     "atomic_counter_timed",
     "mutexes",
-    "read_write"
+    "read_write",
+    "lockfree_map"
 ]
