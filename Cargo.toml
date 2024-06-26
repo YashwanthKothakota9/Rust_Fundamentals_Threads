@@ -9,5 +9,6 @@ edition = "2021"
 members = [
     "FirstThread",
     "DivideWork",
-    "thread_builder"
+    "thread_builder",
+    "scoped_threads"
 ]
