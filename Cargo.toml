@@ -10,5 +10,7 @@ members = [
     "FirstThread",
     "DivideWork",
     "thread_builder",
-    "scoped_threads"
+    "scoped_threads",
+    "atomic_counter",
+    "atomic_counter_timed"
 ]
