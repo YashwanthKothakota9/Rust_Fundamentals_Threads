@@ -16,4 +16,6 @@ members = [
     "mutexes",
     "read_write",
     "lockfree_map",
-    "mpsc_channel","sending_functions","sending_func"]
+    "mpsc_channel","sending_functions","sending_func",
+    "rayon_example"
+    ]
