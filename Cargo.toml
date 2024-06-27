@@ -17,5 +17,6 @@ members = [
     "read_write",
     "lockfree_map",
     "mpsc_channel","sending_functions","sending_func",
-    "rayon_example"
+    "rayon_example",
+    "rayon_scopes"
     ]
