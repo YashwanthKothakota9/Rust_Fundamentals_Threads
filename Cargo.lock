@@ -91,6 +91,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "mpsc_channel"
+version = "0.1.0"
+
+[[package]]
 name = "mutexes"
 version = "0.1.0"
 

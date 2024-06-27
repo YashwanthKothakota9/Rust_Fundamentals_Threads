@@ -15,5 +15,6 @@ members = [
     "atomic_counter_timed",
     "mutexes",
     "read_write",
-    "lockfree_map"
+    "lockfree_map",
+    "mpsc_channel"
 ]
